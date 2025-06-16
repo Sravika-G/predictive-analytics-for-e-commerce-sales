@@ -1,0 +1,12 @@
+🔗 Link to View Dashboard:
+https://public.tableau.com/app/profile/sravika.gillela/viz/Tableau_Dashboard_17499703450540/Dashboard1
+
+📝 Description:
+This dashboard presents insights from a UK-based e-commerce dataset, including:
+- Monthly revenue trends
+- Top-selling products
+- Revenue distribution by country
+- A 6-month future sales forecast using Prophet, with confidence bands
+
+🎨 Built using Tableau Public by Sravika Gillela
+📅 Published: June 2025
