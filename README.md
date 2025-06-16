@@ -23,17 +23,33 @@ To clean and explore a UK-based e-commerce dataset, forecast future monthly reve
 ## 📂 Project Structure
 
 ecommerce-sales-forecast/
+
 ├── app.py
+
 ├── sales_forecast.csv              ← Used in Streamlit
+
 ├── requirements.txt
+
 ├── notebooks/
+
 │   └── ecommerce_forecasting_colab.ipynb
+
 ├── dashboard/
+
 │   ├── forecast_bands.csv          ← Used in Tableau
+
 │   ├── tableau_dashboard.twbx
+
 │   ├── tableau_public_link.txt
+
 │   ├── sheet1_sales_trend.png
+
+│   ├── sheet2_top_products.png
+
+│   ├── sheet3_country_revenue.png
+
 │   ├── sheet4_forecast_band.png
+
 ├── README.md
 
 ---
